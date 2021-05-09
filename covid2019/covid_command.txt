@@ -1,0 +1,4 @@
+http://localhost/covid2019/display.php
+http://localhost/covid2019/insert.php
+http://localhost/covid2019/update.php
+http://localhost/covid2019/delete.php
